@@ -4,5 +4,5 @@
 ### Blender ###
 # Ignore temporary Blender files.
 *.blend1
-
+*.mp4
 # End of https://www.toptal.com/developers/gitignore/api/blender
